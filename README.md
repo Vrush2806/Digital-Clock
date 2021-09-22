@@ -1,5 +1,6 @@
 # Digital-Clock
-##Tkinter-
+
+#Tkinter-
 
 Python use Tkinter to build GUI. 
 
