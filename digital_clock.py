@@ -3,7 +3,7 @@ import time
 app_window=Tk()
 app_window.title("DIGITAL CLOCK")
 app_window.geometry("420x150")
-app_window.resizable(1,1)  #for fixed window size
+app_window.resizable(1,1)  #for fixed window size (1,1)
 
 text_font=("Calibri",68,'bold')
 background="blue"
